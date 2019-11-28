@@ -1,0 +1,40 @@
+CSE 5350 Quantitative Computer Architecture Fall 2019, © DL, UTA, 2019 
+
+Programming Assignment 1 Benchmarks Due: On Canvas 
+
+There are many methods to benchmark your computer/phone/server/device, a few popular ones are: 
+
+https://www.passmark.com/ 
+
+http://www.cpubenchmark.net/ 
+
+http://www.futuremark.com/ 
+
+http://www.userbenchmark.com/software 
+
+http://www.howtogeek.com/111617/how-to-benchmark-your-linux-system-3-open-sourcebenchmarking-tools/ 
+
+http://www.phoronix-test-suite.com/ 
+
+https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench 
+
+https://browser.primatelabs.com/android-benchmarks 
+
+and there are many more. 
+
+Using any two (free) benchmarking software: 
+
+Install and Run (any version(s)) on your computer, phone, tablet, or device 
+
+1. (a) What are the results? Please show results of run(s) (screen shots or similar) (b) What do the results “mean” (Did you evaluate just the CPU, the disk, the whole system?) (Does the software run only once, for a certain time, ??) 
+
+2. How does your system compare to others? 
+
+3. (a) What and how does it measure your system characteristics? (b) How is the CPU “speed” determined (only clock speed, running a mix of floating point instructions, some other method(?)) (c) Do you measure (does “it” measure) doing disk i/o, graphics, memory speed, flash? How? 
+
+
+Please write an analysis (“report”) listing which benchmarking software you used, (URL and brief description), what it measures, and how it works, and answer the Previous questions about those benchmarks. You should also include “screen shots”. Please create one, single, report document. Please name your report document in the format: YourName-Assignment1 (for example: BenchyBob-Assignment1) 
+
+
+
+Please, Submit ONLY to Canvas. All work must be your own, you may reference web sites, books, or anything public (including me), but you MUST site the references.
